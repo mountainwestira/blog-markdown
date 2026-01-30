@@ -10,13 +10,19 @@
 
   <!-- Blog Posts in Markdown Format -->
   <url>
-    <loc>https://mountainwestira.github.io/blog-markdown/why-ira-to-ira-rollovers-are-limited.md</loc>
+    <loc>https://mountainwestira.github.io/blog-markdown/Unlocking-the-New-Secure-2-0-Ta-Credit-for-Solo-401k-Plans.md</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mountainwestira.github.io/blog-markdown/Required-Minimum-Distributions-RMDs-and-Alternative-Assets.md</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mountainwestira.github.io/blog-markdown/why-ira-to-ira-rollovers-are-limited.md</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
