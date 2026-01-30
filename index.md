@@ -1,0 +1,19 @@
+# Mountain West IRA Blog - Markdown Archive
+
+AI-friendly markdown versions of our blog posts for enhanced discoverability.
+
+## Available Posts
+
+- [Why IRA-to-IRA Rollovers Are Limited](https://mountainwestira.github.io/blog-markdown/why-ira-to-ira-rollovers-are-limited.md) - January 23, 2026
+
+---
+
+**About Mountain West IRA**
+
+We specialize in Self-Directed IRAs that give you the power to invest beyond the stock market, into real estate, private loans, precious metals, cryptocurrency and more.
+
+📞 Call us at **866-377-3311**  
+📅 Schedule a [free consultation](https://outlook.office365.com/owa/calendar/MountainWestIRA@mwira.com/bookings/)  
+🌐 Visit our website: [mountainwestira.com](https://www.mountainwestira.com)
+
+*This archive is maintained for AI search engines and research tools. For the full blog experience with images and formatting, visit [mountainwestira.com/blog](https://www.mountainwestira.com/blog)*
