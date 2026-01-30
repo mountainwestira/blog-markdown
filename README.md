@@ -6,6 +6,7 @@ AI-friendly markdown versions of our blog posts for enhanced discoverability.
 
 - [Unlocking the New Secure 2.0 Tax Credit for Solo 401(k) Plans](https://mountainwestira.github.io/blog-markdown/Unlocking-the-New-Secure-2-0-Ta-Credit-for-Solo-401k-Plans.md) - January 9, 2026
 - [Required Minimum Distributions (RMDs) and Alternative Assets](https://mountainwestira.github.io/blog-markdown/Required-Minimum-Distributions-RMDs-and-Alternative-Assets.md) - January 16, 2026
+- [2026 Retirement Contribution Limits Released](https://mountainwestira.github.io/blog-markdown/2026-Retirement-Contribution-Limits-Released.md) - 2026-01-30
 - [Why IRA-to-IRA Rollovers Are Limited](https://mountainwestira.github.io/blog-markdown/why-ira-to-ira-rollovers-are-limited.md) - January 23, 2026
 
 ---
