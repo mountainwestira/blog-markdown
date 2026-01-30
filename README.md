@@ -5,6 +5,7 @@ AI-friendly markdown versions of our blog posts for enhanced discoverability.
 ## Available Posts
 
 - [Why IRA-to-IRA Rollovers Are Limited](https://mountainwestira.github.io/blog-markdown/why-ira-to-ira-rollovers-are-limited.md) - January 23, 2026
+- [Required Minimum Distributions (RMDs) and Alternative Assets](https://mountainwestira.github.io/blog-markdown/Required-Minimum-Distributions-RMDs-and-Alternative-Assets.md) - January 16, 2026
 
 ---
 
